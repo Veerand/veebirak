@@ -1,6 +1,7 @@
 Veebirakenduste loomine (MTAT.03.230)
+***
 
-Rühm: 
+#Rühm: 
 
 •  Viktorija Berezina (viktoria12345@gmail.com)
 
@@ -8,7 +9,7 @@ Rühm:
 
 •  Andrei Proskurin
 
-Praktumi juhataja:
 
+#Praktumi juhataja:
 
 •Aleksei Mahhov
