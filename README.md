@@ -2,10 +2,13 @@
 ***
 
 Rühm:    
-•  Viktorija Berezina (viktoria12345@gmail.com)   
+•  Viktorija Berezina   
 •  Siim Neljandik   
 •  Andrei Proskurin
 
 
 Praktumi juhataja:   
 •Aleksei Mahhov
+
+Aine üldinfo:  
+https://courses.cs.ut.ee/2013/vl  
