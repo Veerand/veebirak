@@ -1,0 +1,14 @@
+
+#kaart,#sektor {
+	display:none;
+	border:none;
+}
+#sisukast_pohivaade, #kont{
+	border: 2px solid #204562; 
+  	border-radius: 8px 8px 8px 8px;
+  	-webkit-border-radius: 8px 8px 8px 8px;
+  	-moz-border-radius: 8px 8px 8px 8px;
+	background:#fff
+	margin-left:auto;
+	margin-right:auto;
+}
